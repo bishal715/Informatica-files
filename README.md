@@ -63,3 +63,52 @@ CURRENT_BALANCE DECIMAL(10,2)
 TO_DATE(REPLACECHR(0, Date_of_Birth, '-', '/'), 'MM/DD/YYYY')
 TO_DATE(REPLACECHR(0, Account_Opening_Date, '-', '/'), 'MM/DD/YYYY')
 TO_DECIMAL(REPLACECHR(0, Current_Balance, '$', ''), 2)
+
+
+-- Create Lookup Table
+CREATE TABLE Regions (
+    REGION_ID INT PRIMARY KEY,
+    REGION_NAME VARCHAR(25)
+);
+
+-- Insert Sample Data into Lookup Table
+INSERT INTO Regions (REGION_ID, REGION_NAME) VALUES 
+(1, 'North America'),
+(2, 'Europe'),
+(3, 'Asia'),
+(4, 'Middle East and Africa'),
+(5, 'South America'),
+(6, 'Oceania');
+
+-- Create Source Table
+CREATE TABLE Countries (
+    COUNTRY_ID VARCHAR(10) PRIMARY KEY,
+    COUNTRY_NAME VARCHAR(40),
+    REGION_ID INT
+);
+
+-- Insert Sample Data into Source Table
+INSERT INTO Countries (COUNTRY_ID, COUNTRY_NAME, REGION_ID) VALUES 
+('US', 'United States of America', 1),
+('CA', 'Canada', 1),
+('UK', 'United Kingdom', 2),
+('DE', 'Germany', 2),
+('FR', 'France', 2),
+('IN', 'India', 3),
+('JP', 'Japan', 3),
+('AE', 'United Arab Emirates', 4),
+('ZA', 'South Africa', 4),
+('BR', 'Brazil', 5),
+('AU', 'Australia', 6),
+-- INTENTIONAL MISMATCH FOR TESTING:
+-- Region 99 does not exist in the Regions table. 
+-- In Informatica, this should return a NULL REGION_NAME.
+('AQ', 'Antarctica', 99);
+
+-- Create Target Table (Empty, waiting for Informatica to load it)
+CREATE TABLE COUNTRY_DATA (
+    COUNTRY_ID VARCHAR(10),
+    COUNTRY_NAME VARCHAR(40),
+    REGION_ID INT,
+    REGION_NAME VARCHAR(25)
+);
