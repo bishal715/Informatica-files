@@ -1,0 +1,21 @@
+Customer_ID,Address_ID,Contact_ID,First_Name,Last_Name,DOB,Passport_No,Gender,Addr_Line_1,Addr_Line_2,City,State,Zip_Code,Country,Email,Phone_Number
+WEB-C-1000,WEB-A-1000,WEB-T-1000,John,Doe,1980-05-15,P1-234567,M,123 Maple St,Apt 4B,New York,NY,10001,US,john.doe@email.com,(212) 555-1234
+WEB-C-1001,WEB-A-1001,WEB-T-1001,Alice,Smith,1990-08-22,A9-876543,F,456 Oak Ave,,Los Angeles,CA,90001,US,alice.s@email.com,(213) 555-9876
+WEB-C-1002,WEB-A-1002,WEB-T-1002,robert,Johnson,1975-11-30,R5-556667,M,789 Pine Rd,Suite 100,Chicago,IL,60601,US,robertj@email.com,(312) 555-4321
+WEB-C-1003,WEB-A-1003,WEB-T-1003,Emily,Davis,1988-03-14,E1-122334,F,321 Cedar Ln,,Houston,TX,77001,US,edavis88@email.com,(713) 555-8765
+WEB-C-1004,WEB-A-1004,WEB-T-1004,Michael,Brown,1992-07-09,M9-988776,M,654 Birch Blvd,,Phoenix,AZ,85001,US,mbrown@email.com,(602) 555-3456
+WEB-C-1005,WEB-A-1005,WEB-T-1005,Sarah,Wilson,1985-12-01,S4-455667,F,987 Walnut St,Apt 12,Philadelphia,PA,19101,US,sarah.wilson@email.com,(215) 555-6543
+WEB-C-1006,WEB-A-1006,WEB-T-1006,david,Martinez,1978-09-18,D7-766554,M,147 Cherry Ct,,San Antonio,TX,78201,US,dmartinez@email.com,(210) 555-7890
+WEB-C-1007,WEB-A-1007,WEB-T-1007,Jennifer,Anderson,1995-04-25,J3-344556,F,258 Elm St,Unit A,San Diego,CA,92101,US,jenn.anderson@email.com,(619) 555-0987
+WEB-C-1008,WEB-A-1008,WEB-T-1008,william,Robinson,1989-09-13,C8-926153,M,8992 Main St,Suite 598,Jacksonville,FL,89242,US,william.robinson80@email.com,(303) 403-1574
+WEB-C-1009,WEB-A-1009,WEB-T-1009,nancy,Garcia,1967-04-13,C5-803582,F,4915 River Blvd,Suite 591,Columbus,OH,76378,US,nancy.garcia42@email.com,(884) 972-3857
+WEB-C-1010,WEB-A-1010,WEB-T-1010,Charles,Martin,1971-12-12,L5-771719,M,649 River Blvd,Apt 84,Columbus,OH,21979,US,charles.martin31@email.com,(500) 278-2256
+WEB-C-1011,WEB-A-1011,WEB-T-1011,anthony,Thompson,1978-04-13,B4-386157,M,5013 Main St,Apt 75,Columbus,OH,75770,US,anthony.thompson48@email.com,(766) 641-1551
+WEB-C-1012,WEB-A-1012,WEB-T-1012,mary,Clark,1967-05-27,A7-007389,F,3016 River Blvd,Suite 355,Jacksonville,FL,10169,US,mary.clark75@email.com,(887) 243-1914
+WEB-C-1013,WEB-A-1013,WEB-T-1013,Thomas,Harris,1999-03-01,N2-330206,M,8294 Lake View,Apt 6,Jacksonville,FL,87775,US,thomas.harris85@email.com,(597) 551-5886
+WEB-C-1014,WEB-A-1014,WEB-T-1014,mary,Martin,1996-12-22,H8-131959,F,1000 Lake View,Apt 89,Jacksonville,FL,48703,US,mary.martin87@email.com,(611) 446-9264
+WEB-C-1015,WEB-A-1015,WEB-T-1015,Matthew,Robinson,1998-12-06,T8-991253,M,1841 Lake View,Apt 71,Columbus,OH,96818,US,matthew.robinson45@email.com,(521) 209-8213
+WEB-C-1016,WEB-A-1016,WEB-T-1016,Susan,Jackson,1969-06-23,I4-374127,F,2587 High St,Suite 812,Austin,TX,91768,US,susan.jackson85@email.com,(416) 271-5974
+WEB-C-1017,WEB-A-1017,WEB-T-1017,Susan,White,1971-02-27,K5-568632,F,8298 Park Ave,Suite 492,San Jose,CA,24358,US,susan.white27@email.com,(692) 294-5812
+WEB-C-1018,WEB-A-1018,WEB-T-1018,Mary,Clark,1969-03-10,W7-894542,F,4597 Main St,Suite 738,Jacksonville,FL,84765,US,mary.clark50@email.com,(534) 630-4354
+WEB-C-1019,WEB-A-1019,WEB-T-1019,Karen,White,1967-07-05,X8-502307,F,5289 Main St,Apt 22,Dallas,TX,96635,US,karen.white63@email.com,(239) 211-1440
