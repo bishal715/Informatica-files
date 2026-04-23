@@ -1,0 +1,21 @@
+Customer_ID,Address_ID,Contact_ID,First_Name,Last_Name,DOB,Passport_No,Gender,Addr_Line_1,Addr_Line_2,City,State,Zip_Code,Country,Email,Phone_Number
+WEB-C-1000,WEB-A-1000,WEB-T-1000,John,Doe,1980-05-15,P1-234567,M,123 Maple St,,New York,NY,10001,US,john.doe@email.com,(212) 555-1234
+WEB-C-1001,WEB-A-1001,WEB-T-1001,Alice,Smith,1990-08-22,A9-876543,F,456 Oak Ave,,Los Angeles,CA,90001,US,alice.s@email.com,(213) 555-9876
+WEB-C-1002,WEB-A-1002,WEB-T-1002,Robert,Johnson,1975-11-30,R5-556667,M,789 Pine Rd,,Chicago,IL,60601,US,robertj@email.com,(312) 555-4321
+WEB-C-1003,WEB-A-1003,WEB-T-1003,Emily,Davis,1988-03-14,E1-122334,F,321 Cedar Ln,,Houston,TX,77001,US,edavis88@email.com,(713) 555-8765
+WEB-C-1004,WEB-A-1004,WEB-T-1004,Michael,Brown,1992-07-09,M9-988776,M,654 Birch Blvd,,Phoenix,AZ,85001,US,mbrown@email.com,(602) 555-3456
+WEB-C-1005,WEB-A-1005,WEB-T-1005,Sarah,Wilson,1985-12-01,S4-455667,F,987 Walnut St,,Philadelphia,PA,19101,US,sarah.w@email.com,(215) 555-6543
+WEB-C-1006,WEB-A-1006,WEB-T-1006,David,Martinez,1978-09-18,D7-766554,M,147 Cherry Ct,,San Antonio,TX,78201,US,dmartinez@email.com,(210) 555-7890
+WEB-C-1007,WEB-A-1007,WEB-T-1007,Jennifer,Anderson,1995-04-25,J3-344556,F,258 Elm St,,San Diego,CA,92101,US,jenn.a@email.com,(619) 555-0987
+WEB-C-1008,WEB-A-1008,WEB-T-1008,Elizabeth,White,1980-09-06,W0-130864,F,888 Ash Dr,,Denver,CO,80201,US,ewhite@email.com,(303) 555-5566
+WEB-C-1009,WEB-A-1009,WEB-T-1009,Richard,White,1963-10-17,W2-463548,M,999 Fir Blvd,,Boston,MA,02101,US,rwhite@email.com,(617) 555-7788
+WEB-C-1010,WEB-A-1010,WEB-T-1010,Patricia,Garcia,1999-10-06,G6-028965,F,111 Redwood Ln,,Detroit,MI,48201,US,pgarcia@email.com,(313) 555-9900
+WEB-C-1011,WEB-A-1011,WEB-T-1011,Joseph,Jackson,1978-05-07,J1-035605,M,222 Palm Ct,,Miami,FL,33101,US,jjackson@email.com,(305) 555-2233
+WEB-C-1012,WEB-A-1012,WEB-T-1012,Jessica,Thompson,1960-01-28,T6-035566,F,333 Cypress St,,Dallas,TX,75201,US,jthompson@email.com,(214) 555-4455
+WEB-C-1013,WEB-A-1013,WEB-T-1013,William,Jackson,1982-02-14,W99013,M,555 Cedar St,,Atlanta,GA,30301,US,will.j@email.com,(404) 555-1122
+WEB-C-1014,WEB-A-1014,WEB-T-1014,Christopher,Harris,1991-06-19,W99014,M,777 Spruce Way,,Seattle,WA,98101,US,charris@email.com,(206) 555-3344
+WEB-C-1015,WEB-A-1015,WEB-T-1015,Margaret,Martin,1984-01-22,W99015,F,444 Poplar Ave,,San Francisco,CA,94101,US,mmartin@email.com,(415) 555-6677
+WEB-C-1016,WEB-A-1016,WEB-T-1016,Reject,User,1990-01-01,P999999,M,123 Bad St,,City,NY,10001,US,test@domain.com,555
+WEB-C-1017,WEB-A-1017,WEB-T-1017,Reject,User,1990-01-01,P999999,M,123 Bad St,,City,NY,10001,US,bad.email,2125551234
+WEB-C-1018,WEB-A-1018,WEB-T-1018,Reject,User,1990-01-01,P999999,M,123 Bad St,,City,NY,10001,US,test@domain.com,2125551234
+WEB-C-1019,WEB-A-1019,WEB-T-1019,Reject,User,1990-01-01,P999999,M,123 Bad St,,City,NY,10001,US,test@domain.com,2125551234
