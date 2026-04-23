@@ -1,0 +1,21 @@
+Customer_ID,Address_ID,Contact_ID,First_Name,Last_Name,DOB,Passport_No,Gender,Addr_Line_1,Addr_Line_2,City,State,Zip_Code,Country,Email,Phone_Number
+WEB-C-1000,WEB-A-1000,WEB-T-1000,john,Doe,1980-05-15,P1-234567,M,123 Maple St,Apt 4B,New York,NY,10001,US,john.doe@email.com,(212) 555-1234
+WEB-C-1001,WEB-A-1001,WEB-T-1001,Alice,Smith,1990-08-22,A9-876543,F,456 Oak Ave,,Los Angeles,CA,90001,US,alice.s@email.com,(213) 555-9876
+WEB-C-1002,WEB-A-1002,WEB-T-1002,Robert,Johnson,1975-11-30,R5-556667,M,789 Pine Rd,Suite 100,Chicago,IL,60601,US,robertj@email.com,(312) 555-4321
+WEB-C-1003,WEB-A-1003,WEB-T-1003,Emily,Davis,1988-03-14,E1-122334,F,321 Cedar Ln,,Houston,TX,77001,US,edavis88@email.com,(713) 555-8765
+WEB-C-1004,WEB-A-1004,WEB-T-1004,Michael,Brown,1992-07-09,M9-988776,M,654 Birch Blvd,,Phoenix,AZ,85001,US,mbrown@email.com,(602) 555-3456
+WEB-C-1005,WEB-A-1005,WEB-T-1005,Sarah,Wilson,1985-12-01,S4-455667,F,987 Walnut St,Apt 12,Philadelphia,PA,19101,US,sarah.wilson@email.com,(215) 555-6543
+WEB-C-1006,WEB-A-1006,WEB-T-1006,david,Martinez,1978-09-18,D7-766554,M,147 Cherry Ct,,San Antonio,TX,78201,US,dmartinez@email.com,(210) 555-7890
+WEB-C-1007,WEB-A-1007,WEB-T-1007,jennifer,Anderson,1995-04-25,J3-344556,F,258 Elm St,Unit A,San Diego,CA,92101,US,jenn.anderson@email.com,(619) 555-0987
+WEB-C-1008,WEB-A-1008,WEB-T-1008,Elizabeth,White,1980-09-06,O1-308649,F,1515 Main St,,San Jose,CA,44675,US,elizabeth.white17@email.com,(710) 220-8718
+WEB-C-1009,WEB-A-1009,WEB-T-1009,Richard,White,1963-10-17,Z4-635481,M,116 Park Ave,,Columbus,OH,12261,US,richard.white78@email.com,(458) 805-4998
+WEB-C-1010,WEB-A-1010,WEB-T-1010,Anthony,Harris,1976-05-06,M7-273452,M,3638 River Blvd,,San Jose,CA,89789,US,anthony.harris57@email.com,555-ABCD
+WEB-C-1011,WEB-A-1011,WEB-T-1011,Karen,White,1962-01-13,E1-752068,F,9070 High St,Apt 80,Austin,TX,35000,US,invalid.email.com,(746) 579-1351
+WEB-C-1012,WEB-A-1012,WEB-T-1012,anthony,Jackson,1971-06-14,T6-333917,M,6587 River Blvd,Suite 164,Jacksonville,FL,49028,US,test@domain,(930) 833-4700
+WEB-C-1013,WEB-A-1013,WEB-T-1013,Joseph,Thompson,1974-01-15,D4-626218,M,8952 River Blvd,Suite 658,San Jose,CA,43745,US,joseph.thompson11@email.com,
+WEB-C-1014,WEB-A-1014,WEB-T-1014,Patricia,Garcia,1999-10-06,C6-028965,F,6792 Park Ave,Apt 71,Austin,TX,48150,US,patricia.garcia31@email.com,(313) 398-1340
+WEB-C-1015,WEB-A-1015,WEB-T-1015,Richard,Jackson,1978-05-07,F1-035605,M,4727 Main St,Suite 309,San Jose,CA,33545,US,richard.jackson15@email.com,(225) 227-1631
+WEB-C-1016,WEB-A-1016,WEB-T-1016,joseph,White,1991-11-20,Y4-592775,M,7804 Hill Rd,Apt 88,Austin,TX,29506,US,joseph.white98@email.com,(646) 460-4718
+WEB-C-1017,WEB-A-1017,WEB-T-1017,Jessica,Thompson,1960-01-28,D6-035566,F,6611 Lake View,,Austin,TX,28473,US,jessica.thompson30@email.com,(547) 724-7198
+WEB-C-1018,WEB-A-1018,WEB-T-1018,Daniel,Clark,1968-05-24,H1-170626,Male,8081 High St,Suite 475,Dallas,TX,15512,US,daniel.clark56@email.com,(936) 439-3616
+WEB-C-1019,WEB-A-1019,WEB-T-1019,Nancy,Clark,1963-02-25,U6-668908,F,5177 River Blvd,Apt 54,Austin,TX,42064,US,nancy.clark90@email.com,(916) 365-9515
